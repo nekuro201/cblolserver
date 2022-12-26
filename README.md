@@ -19,7 +19,6 @@ cblolserver is an server made with SQLite to cblolmobile project.
 - [X] TypeScript
 - [X] Prisma
 - [X] Fastify
-- [X] Next.js
 
 ## Tools
 - [X] Zod
@@ -45,6 +44,9 @@ $ npm
 
 # Run the server
 $ npm run dev
+
+# Optional: with you want add some data in database
+$ npx prisma db seed
 ```
 
 ---
