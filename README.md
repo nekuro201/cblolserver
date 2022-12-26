@@ -19,9 +19,9 @@ cblolserver is an server made with SQLite to cblolmobile project.
 - [X] TypeScript
 - [X] Prisma
 - [X] Fastify
+- [X] Zod (validation library)
 
 ## Tools
-- [X] Zod
 - [X] VSCode Extension: Prisma
 
 ## 💻 Getting started
